@@ -1,0 +1,8 @@
+lib: [
+  "_build/install/default/lib/cocksizebot/META"
+  "_build/install/default/lib/cocksizebot/dune-package"
+  "_build/install/default/lib/cocksizebot/opam"
+]
+bin: [
+  "_build/install/default/bin/cocksizebot"
+]

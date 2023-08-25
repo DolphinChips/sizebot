@@ -1,0 +1,4 @@
+(executable
+ (public_name cocksizebot)
+ (name main)
+ (libraries cocksizebot tg lwt.unix cohttp-lwt-unix yojson cmdliner))

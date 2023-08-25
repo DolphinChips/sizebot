@@ -1,0 +1,3 @@
+(library
+ (name cocksizebot)
+ (libraries redis-lwt calendar))
